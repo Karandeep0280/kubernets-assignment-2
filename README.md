@@ -1,1 +1,1 @@
-# kubernets-assignment-2
+# kubernets-ingress-assignment-2
